@@ -1,0 +1,38 @@
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.pdb
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.GamesForm.resources
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Properties.Resources.resources
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.GenerateResource.Cache
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.pdb
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Which_Card_Game.resources
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Which_Dice_Game.resources
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Pig_with_Two_Dice_Form.resources
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Pig_Game_Form.resources
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Solitare_Form.resources
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.TwentyOne_Game_Form.resources
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\bin\Debug\ClassLibrary1.dll
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\bin\Debug\Low Level Objects Library.dll
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassAssignment\bin\Debug\Low Level Objects Library.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\bin\Debug\ClassLibrary1.dll
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\bin\Debug\Low Level Objects Library.dll
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\bin\Debug\Low Level Objects Library.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Pig_Game_Form.resources
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Pig_with_Two_Dice_Form.resources
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Solitare_Form.resources
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.TwentyOne_Game_Form.resources
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Which_Card_Game.resources
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Which_Dice_Game.resources
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.GamesForm.resources
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Properties.Resources.resources
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.GenerateResource.Cache
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.pdb

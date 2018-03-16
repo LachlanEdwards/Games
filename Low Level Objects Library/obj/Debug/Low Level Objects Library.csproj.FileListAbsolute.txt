@@ -1,0 +1,9 @@
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.dll
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.pdb
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.csprojResolveAssemblyReference.cache
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.dll
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.dll
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\Low Level Objects Library\bin\Debug\Low Level Objects Library.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.dll
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\Low Level Objects Library\obj\Debug\Low Level Objects Library.pdb

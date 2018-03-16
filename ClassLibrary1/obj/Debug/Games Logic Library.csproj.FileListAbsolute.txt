@@ -1,0 +1,14 @@
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\obj\Debug\Games Logic Library.csprojResolveAssemblyReference.cache
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\bin\Debug\Low Level Objects Library.dll
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\bin\Debug\Low Level Objects Library.pdb
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\bin\Debug\Low Level Objects Library.dll
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\bin\Debug\Low Level Objects Library.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\obj\Debug\Games Logic Library.csprojResolveAssemblyReference.cache

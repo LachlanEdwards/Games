@@ -1,0 +1,13 @@
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\bin\Release\Low Level Objects Library.dll
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\bin\Release\Low Level Objects Library.pdb
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\Lachlan Edwards\Desktop\ClassAssignment\ClassLibrary1\obj\Release\Games Logic Library.csprojResolveAssemblyReference.cache
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\bin\Release\Low Level Objects Library.dll
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\bin\Release\Low Level Objects Library.pdb
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Lachlan Edwards\Documents\ClassAssignment\ClassLibrary1\obj\Release\ClassLibrary1.pdb
